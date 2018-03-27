@@ -68,7 +68,7 @@ countOfFalse = 0
 
 ## Authors
 
-* **Veyis Egemen ERDEN** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Veyis Egemen ERDEN** - *Initial work* - [cmpe407/miniproject](https://github.com/VeEgEr/cmpe407)
 
 
 
